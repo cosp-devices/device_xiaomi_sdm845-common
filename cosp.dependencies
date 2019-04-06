@@ -1,13 +1,13 @@
 [
   {
-    "repository": "AICP/kernel_xiaomi_sdm845",
+    "repository": "LineageOS/kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "p9.0"
+    "branch": "lineage-16.0"
   },
   {
-    "repository": "AICP/proprietary_vendor_xiaomi",
+    "repository": "cosp-devices/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "p9.0"
+    "branch": "pie"
   },
   {
     "repository":  "LineageOS/android_packages_resources_devicesettings",
